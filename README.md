@@ -1,5 +1,5 @@
 
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="300" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 # Hello, I'm Khuong!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 
