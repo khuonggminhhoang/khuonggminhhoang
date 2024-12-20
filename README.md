@@ -23,7 +23,7 @@
 
 ---
 
-## 🙋‍♀️ Let's Connect
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Let's Connect
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:khuonghm.b21cn461@stu.ptit.edu.vn"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
