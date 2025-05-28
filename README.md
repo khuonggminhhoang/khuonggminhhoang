@@ -8,22 +8,22 @@
 ```diff
 + 📚 I am currently studying at <PTIT>
 + 🌍 living in Hanoi, VietNam.
-+ 🌱 21 years old
++ 🌱 22 years old
 + 📫 How to reach me <Khuonghm.b21cn461@stu.ptit.edu.vn>
-+ 📖 I’m currently learning TS, Nestjs
++ 📖 I’m currently learning TS, NestJs, NextJs
 
 ```
 
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-## 🎧 Spotify Playing 
+## <picture><img src = "https://media.tenor.com/1gxjK7FSc0UAAAAm/peach-goma-music-headset-rock-the-horns.webp?raw=true" width = 100px></picture> Spotify Playing 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4Qt47y3EVOHQjILfzJ8NhI)
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Let's Connect
+## <picture><img src = "https://media.tenor.com/KdkhCJ65m0sAAAAm/peach-goma-peach-and-goma.webp?raw=true" width = 50px></picture> Let's Connect
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:khuonghm.b21cn461@stu.ptit.edu.vn"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
