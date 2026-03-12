@@ -10,7 +10,7 @@
 + 🌍 living in Hanoi, VietNam.
 + 🌱 22 years old
 + 📫 How to reach me <Khuonghm.b21cn461@stu.ptit.edu.vn>
-+ 📖 I’m currently learning TS, NestJs, NextJs, Java SpringBoot
++ 📖 I’m ...
 
 ```
 
